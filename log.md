@@ -41,3 +41,19 @@ Completed the following:
 
 <img width="596" alt="Screenshot 2024-02-17 at 22 48 14" src="https://github.com/nashetty/100-days-of-code/assets/110870202/81fb21ed-761f-4bd8-b06c-e64c7c4586a8">
 
+### Day 2: February 18, Sunday
+
+**Today's Progress**: I continued with Codewars - 7 kyu. 
+
+**Thoughts**: I took time to think of other ways to approach some of the exercises (e.g. instead of using traditional for loop, I tried using 'for...of...' with arrays). I have also completed one of the exercises previously with Python so it was interesting to compare the solutions. 
+
+**Link(s) to work**
+Completed the following:
+
+<img width="495" alt="Screenshot 2024-02-18 at 23 42 41" src="https://github.com/nashetty/100-days-of-code/assets/110870202/ae4ad9ac-dc1a-4bde-a2b6-6621debe5c1e">
+<img width="646" alt="Screenshot 2024-02-18 at 23 42 31" src="https://github.com/nashetty/100-days-of-code/assets/110870202/c9ab60fe-db97-4e61-9e66-135fb3871377">
+<img width="737" alt="Screenshot 2024-02-18 at 23 42 22" src="https://github.com/nashetty/100-days-of-code/assets/110870202/5e3df19d-c09f-4b3b-96ce-e9ce7f0db2e2">
+<img width="360" alt="Screenshot 2024-02-18 at 23 42 12" src="https://github.com/nashetty/100-days-of-code/assets/110870202/a6c8569b-857c-4534-8572-797bce366e88">
+<img width="473" alt="Screenshot 2024-02-18 at 23 42 49" src="https://github.com/nashetty/100-days-of-code/assets/110870202/73bb061f-b2f8-4125-9ad2-228295a51184">
+<img width="541" alt="Screenshot 2024-02-18 at 23 42 02" src="https://github.com/nashetty/100-days-of-code/assets/110870202/86f618ce-0e99-4b1a-a5e5-0928dc9b5724">
+
